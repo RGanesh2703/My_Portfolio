@@ -511,6 +511,24 @@ section {
   width: 150px;
   border-radius: 20px;
 }
+.contact-space {
+  font-size: 30px;
+  text-align: center;
+  padding: 30px;
+}
+
+.contact-button {
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.contact-button:hover {
+  background-color: aquamarine;
+  color: black;
+  box-shadow: 5px 5px 5px black;
+}
 
 /*--------------------------------------------------------------
 # Breadcrumbs
